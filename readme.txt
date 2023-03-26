@@ -1,4 +1,6 @@
-Dino runner game final project made for the Jala University's software engineering's admission course.
+Dino Runner game
+
+final project made for the Jala University's software engineering's admission course.
 
 Contains extra atributes that differ from the original model, specially called "day-and-night" and "score-ranking"
 23/03/2023.
