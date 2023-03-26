@@ -1,4 +1,4 @@
-Dino Runner game
+Dino Runner game.
 
 final project made for the Jala University's software engineering's admission course.
 
