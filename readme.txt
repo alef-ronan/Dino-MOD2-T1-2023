@@ -1,8 +1,7 @@
-Atulização constando atributos das versões "day-and-night" e "score-ranking", 23/03/2023.
+Dino runner game final project made for the Jala University's software engineering's admission course.
 
-Foram feitos:
+Contains extra atributes that differ from the original model, specially called "day-and-night" and "score-ranking"
+23/03/2023.
 
--Conserto de bugs
--Novas funcionalidades
--Novo cenário "Noite"
--A pontuação mais alta é exposta após o fim do jogo
+"day-and-night": Changes game's scenario to darker tone after a certain point score
+"score-ranking": Shows maximum score obtained after it's initialization in the "game over" menu.
